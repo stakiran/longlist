@@ -1,1 +1,6 @@
-encoding: UTF-8
+url: https://stakiran.github.io/longlist/
+lang: ja-JP
+title: 5000行リストお試し
+theme: jekyll-theme-modernist
+plugins:
+  - jemoji
